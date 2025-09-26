@@ -1,7 +1,7 @@
 # 👋 Hi, I'm D. Anisha
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blue" alt="Focus: Web Development">
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Development-blue" alt="Focus: Web Development">
   <img src="https://img.shields.io/badge/Status-Final%20Year%20CSE%20Student-orange" alt="Status: Final Year CSE Student">
   <img src="https://img.shields.io/badge/University-Mohan%20Babu%20University-green" alt="University: Mohan Babu University">
 </div>
