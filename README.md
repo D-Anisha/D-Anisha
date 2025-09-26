@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-Hey there! I'm **Yaswanth**, a final-year **CSE (AI & ML)** student passionate about exploring new technologies and building innovative solutions. I love turning complex problems into elegant, efficient code.
+Hey there! I'm **Anisha**, a final-year **CSE** student passionate about exploring new technologies and building innovative solutions. I love turning complex problems into elegant, efficient code.
 
 I'm constantly learning and expanding my skillset in the world of AI and software development. Welcome to my digital playground! 🚀
 
@@ -18,7 +18,7 @@ I'm constantly learning and expanding my skillset in the world of AI and softwar
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python 🐍, HTML 🌐, CSS 🎨, JavaScript (basic) |
+| **Languages** | Python 🐍, HTML 🌐, CSS 🎨, JavaScript |
 | **AI/ML Libraries** | NumPy 📊, Pandas 🐼, OpenCV 👁️ |
 | **UI Development** | Tkinter 🖼️ |
 | **Databases** | MySQL 🛢️, SQLite 💾 |
